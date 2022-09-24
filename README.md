@@ -1,4 +1,4 @@
-## Application Activities developed in Android Studio
+# Application Activities developed in Android Studio
 
-# Description
+## Description
 You can enter link and open it using available browser on device
